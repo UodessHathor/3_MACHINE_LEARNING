@@ -96,9 +96,9 @@ To complete this project, your team should:
 ---
 ---
 
-# UBER Pickups 🚙
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/1024px-Uber_logo_2018.svg.png" alt="UBER LOGO" width="30%" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/1024px-Uber_logo_2018.svg.png" alt="UBER LOGO" width="40%" />
+# UBER Pickups 🚙
 
 
 ## Company's Description 📇
