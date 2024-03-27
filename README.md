@@ -1,4 +1,4 @@
-# Welcome! 3 Machine Learning projects are available here 🩵
+# Welcome! Machine Learning projects are available here 🩵
 
 
 In this repo you will find **three Case study** on building a **Machine Learning** algorithm (**supervised** AND **unsupervised**) including *predictive analysis* and *optimized performances* of concerned models. ✅
