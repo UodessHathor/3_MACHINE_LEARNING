@@ -4,7 +4,7 @@
 In this repo you will find **three Case study** on building a **Machine Learning** algorithm (**supervised** AND **unsupervised**) including *predictive analysis* and *optimized performances* of concerned models. ✅
 
 ---
-## ➡️ The project is divided in three parts, there is no particular order, projects can be viewed independently : 
+## ➡️ The project is divided in 3 parts, projects can be viewed independently : 
 
  * 🔗 **Walmart** :  <ins>*Supervised Machine Learning project (regression)*</ins> where the goal is to predict weekly sales of this famous shop 🛍️ 🛒
 
@@ -13,7 +13,7 @@ In this repo you will find **three Case study** on building a **Machine Learnin
  * 🔗 **Uber** : <ins>*Unupervised Machine Learning project (Kmeans/DBScan models)*</ins> : I don't present you the company, I think you been for once in front of that logo or heard about them 🤗 Weel, they gave a mission to find hot zones in New York City where the pickup demand is the highest by defining clusters 🏁 🚙
 
       
- - 👇🏽 *Down here you have the full description of projects from Jedha, hope you enjoy them as did making them* 👇🏽
+ - 👇🏽 *Down here you have the description of projects from Jedha, hope you enjoy them as did making them* 👇🏽
 
 
 ---
